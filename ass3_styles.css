@@ -1,0 +1,13 @@
+/* @font-face {
+	font-family: 'georgia';
+	src: url(/SD Georgia Light.ttf);
+} */
+body {
+	font-family: 'georgia', serif;
+	background-image: 'background.jpg';
+}
+#outerCard {
+	align-items: center;
+	margin-top: 40px;
+	width: 80%;
+}
